@@ -11,7 +11,7 @@ frame=cv2.resize(frame,(840,480))
 cx1,cy1=840//2,480//2
 lower_range=np.array([79,134,57])
 upper_range=np.array([125,255,255])
-#144,116,162
+
 count=0
 
 def stop():
