@@ -3,4 +3,7 @@ install pi apps:-
 
 
 esp32
-https://dl.espressif.com/dl/package_esp32_index.json
+
+
+
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
